@@ -1,0 +1,19 @@
+python3 code2.py 64 0.0085 0.02 2 &
+python3 code2.py 64 0.0235 0.02 2 &
+python3 code2.py 64 0.0385 0.02 2 &
+python3 code2.py 64 0.0535 0.02 2 &
+python3 code2.py 64 0.0685 0.02 2 &
+python3 code2.py 64 0.08349999999999999 0.02 2 &
+python3 code2.py 64 0.0985 0.02 2 &
+python3 code2.py 64 0.11349999999999999 0.02 2 &
+python3 code2.py 64 0.1285 0.02 2 &
+
+python3 code2.py 72 0.0085 0.02 1 &
+python3 code2.py 72 0.0235 0.02 1 &
+python3 code2.py 72 0.0385 0.02 1 &
+python3 code2.py 72 0.0535 0.02 1 &
+python3 code2.py 72 0.0685 0.02 1 &
+python3 code2.py 72 0.08349999999999999 0.02 1 &
+python3 code2.py 72 0.0985 0.02 1 &
+python3 code2.py 72 0.11349999999999999 0.02 1 &
+python3 code2.py 72 0.1285 0.02 1 &

@@ -1,0 +1,15 @@
+python3 code2.py 72 0.235 0.0100 0 &
+python3 code2.py 72 0.235 0.0115 0 &
+python3 code2.py 72 0.235 0.0130 0 &
+python3 code2.py 72 0.235 0.0145 0 &
+python3 code2.py 72 0.235 0.0160 0 &
+python3 code2.py 72 0.235 0.0175 0 &
+python3 code2.py 72 0.235 0.0190 0 &
+python3 code2.py 72 0.235 0.0205 0 &
+python3 code2.py 72 0.235 0.0220 0 &
+python3 code2.py 72 0.235 0.0235 0 &
+python3 code2.py 72 0.235 0.0250 0 &
+python3 code2.py 72 0.235 0.0265 0 &
+python3 code2.py 72 0.235 0.0280 0 &
+python3 code2.py 72 0.235 0.0295 0 &
+python3 code2.py 72 0.235 0.0310 0 &

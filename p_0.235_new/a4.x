@@ -1,0 +1,11 @@
+python3 code2.py 128 0.235 0.018 0 &
+python3 code2.py 128 0.235 0.0182 0 &
+python3 code2.py 128 0.235 0.0184 0 &
+python3 code2.py 128 0.235 0.0186 0 &
+python3 code2.py 128 0.235 0.0188 0 &
+python3 code2.py 128 0.235 0.019 0 &
+python3 code2.py 128 0.235 0.0192 0 &
+python3 code2.py 128 0.235 0.0194 0 &
+python3 code2.py 128 0.235 0.0196 0 &
+python3 code2.py 128 0.235 0.0198 0 &
+python3 code2.py 128 0.235 0.02 0 &

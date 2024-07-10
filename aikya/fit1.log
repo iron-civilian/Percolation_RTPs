@@ -1,0 +1,50 @@
+
+
+*******************************************************************************
+Sat Jun  8 00:20:03 2024
+
+
+FIT:    data read from 'data.txt' u 1:2
+        format = x:z
+        #datapoints = 18
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a+b*x+c*x**2+d*x**3+e*x**4+f*x**5+g*x**6+h*x**7+i*x**8
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c             d             e             f             g             h             i            
+   0 3.5804923642e+01   0.00e+00  3.50e-01    1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00   1.000000e+00
+  10 1.5172727751e-09  -1.56e-02  3.50e-11   -4.533376e-04   7.962170e-02   5.051970e-01  -5.448332e+00   3.573780e+01  -1.536348e+02   3.684644e+02  -4.461096e+02   2.135893e+02
+
+After 10 iterations the fit converged.
+final sum of squares of residuals : 1.51727e-09
+rel. change during last iteration : -1.5565e-07
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.29841e-05
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.68586e-10
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.000453338     +/- 0.0001123    (24.77%)
+b               = 0.0796217        +/- 0.007215     (9.062%)
+c               = 0.505197         +/- 0.168        (33.24%)
+d               = -5.44833         +/- 1.926        (35.36%)
+e               = 35.7378          +/- 12.27        (34.34%)
+f               = -153.635         +/- 45.49        (29.61%)
+g               = 368.464          +/- 97.47        (26.45%)
+h               = -446.11          +/- 111.9        (25.07%)
+i               = 213.589          +/- 53.16        (24.89%)
+
+correlation matrix of the fit parameters:
+                a      b      c      d      e      f      g      h      i      
+a               1.000 
+b              -0.985  1.000 
+c               0.957 -0.991  1.000 
+d              -0.923  0.971 -0.994  1.000 
+e               0.889 -0.945  0.979 -0.995  1.000 
+f              -0.855  0.917 -0.958  0.984 -0.996  1.000 
+g               0.822 -0.888  0.936 -0.967  0.987 -0.997  1.000 
+h              -0.791  0.859 -0.911  0.949 -0.974  0.989 -0.998  1.000 
+i               0.762 -0.832  0.887 -0.928  0.958 -0.979  0.991 -0.998  1.000 
